@@ -17,6 +17,6 @@ Usuarios
 ## Menu Principal
 
 <div align="center">
- <img src="https://i.postimg.cc/rwbm9NZZ/Captura-de-pantalla-2023-11-19-233008.png" title="Inicio" alt="Inicio" width="600" height="400" />
+ <img src="https://i.postimg.cc/rwbm9NZZ/Captura-de-pantalla-2023-11-19-233008.png" title="Inicio" alt="Inicio" width="700" height="500" />
 </div>
 
