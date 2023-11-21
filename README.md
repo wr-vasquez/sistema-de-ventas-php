@@ -11,6 +11,12 @@ Usuarios
 ## Login del Sistema
 
 <div align="center">
- <img src="https://i.postimg.cc/mgDcL0tv/Captura-de-pantalla-2023-11-19-232552.png" title="Inicio" alt="Inicio" width="600" height="400" />
+ <img src="https://i.postimg.cc/mgDcL0tv/Captura-de-pantalla-2023-11-19-232552.png" title="Inicio" alt="Inicio" width="400" height="300" />
+</div>
+
+## Menu Principal
+
+<div align="center">
+ <img src="https://i.postimg.cc/rwbm9NZZ/Captura-de-pantalla-2023-11-19-233008.png" title="Inicio" alt="Inicio" width="600" height="400" />
 </div>
 
